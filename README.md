@@ -5,6 +5,9 @@ Este é um simples projeto de lista de tarefas construído com Material-UI e Rea
 Ele permite adicionar, marcar como concluídas e excluir tarefas.
 Desenvolvido com objetivo de ganhar mais experiencia com React.
 
+
+Acesse o site : https://tasklisthugo.netlify.app/
+
 ## Recursos
 - Adicionar novas tarefas
 - Marcar tarefas como concluídas
